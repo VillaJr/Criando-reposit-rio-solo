@@ -1,0 +1,1 @@
+Escrevi esse texto para teste. E saber se o Git vai perceber a alteração no read me 
